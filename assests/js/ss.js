@@ -7,7 +7,7 @@ SimplifyStyles.prototype = {
         version: 'Simplify Styles v0.7',
         ajaxTimeout: 10000,
         readyTimeout: 8000,
-        resourcePath: (location.protocol == 'https:' ? 'https:' : 'http:') + '//mightywinter.github.io',
+        resourcePath: (location.protocol == 'https:' ? 'https:' : 'http:') + '//mightywinter.github.io/assets',
         exports: "init simplify enablePJAX showMessage changeFontSize toggleTheme hideOrShowElements",
         key_fontsize: 'ss-fontsize',
         key_theme: 'ss-theme',

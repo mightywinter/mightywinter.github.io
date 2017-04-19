@@ -1,0 +1,1 @@
+javascript:(function(a,b,c,d,e)%7Bb=(b=='https:')?b:'http:';c='//mightywinter.github.io/assests/';d=0%7Cnew%20Date().getTime()/1000/60/6;e=a.createElement('scr'+'ipt');e.src=%5Bb,c,'js/ss.js?',d%5D.join('');e.charset='utf-8';e.async='async';(a.head%7C%7Ca.body%7C%7Ca.documentElement).appendChild(e);%7D)(document,location.protocol);
